@@ -28,7 +28,7 @@ Welcome to the **PDF Mail Merge** community! We provide a high-performance, priv
 
 *   **[Web Tool](https://sheetstolabels.com/fill-pdf-from-excel-google-sheets)**: The core visual mapping experience.
 *   **[Google Sheets Add-on](https://workspace.google.com/marketplace)**: Seamlessly launch the mapper from your spreadsheets.
-*   **[Chrome Extension](https://sheetstolabels.com)**: Quick access to PDF tools while browsing.
+*   **[Chrome Extension](https://chromewebstore.google.com/detail/pdf-mail-merge-fill-forms/oilohbffbpbcjdicdfcmpiedbhlghohk)**: Quick access to PDF tools while browsing.
 
 ---
 
