@@ -2,7 +2,8 @@
 
 Welcome to the **PDF Mail Merge** community! We provide a high-performance, privacy-first tool designed to automate your document workflow by merging spreadsheet data with PDF templates.
 
-![fill-pdf-from-excel-google-sheets-hero](https://sheetstolabels.com/imgs/features/fill-pdf-from-excel-google-sheets-hero-min.webp)
+
+[![fill-pdf-from-excel-google-sheets-hero](https://sheetstolabels.com/imgs/features/fill-pdf-from-excel-google-sheets-hero-min.webp)](https://sheetstolabels.com/fill-pdf-from-excel-google-sheets)
 
 ### 🔗 Quick Access
 **[👉 Start Filling PDFs Now](https://sheetstolabels.com/fill-pdf-from-excel-google-sheets)**
